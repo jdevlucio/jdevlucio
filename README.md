@@ -9,6 +9,6 @@
           
 
 ## Badges
-<img src="https://github.com/jdevlucio/jdevlucio/blob/main/aws-certified-cloud-practitioner.png"  width="120" height="120"/>
+<img src="https://github.com/jdevlucio/jdevlucio/blob/main/aws-certified-cloud-practitioner.png"  width="140" height="140"/><img src="https://github.com/jdevlucio/jdevlucio/blob/main/microsoft-certified-azure-fundamentals.png"  width="140" height="140"/><img src="https://github.com/jdevlucio/jdevlucio/blob/main/oracle-certified-associate-java-se-8-programmer.png"  width="140" height="140"/>
 
 
