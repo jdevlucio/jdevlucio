@@ -9,6 +9,6 @@
           
 
 ## Badges
-<img src="https://github.com/jdevlucio/jdevlucio/blob/main/aws-certified-cloud-practitioner.png"  width="80" height="80"/>
+<img src="https://github.com/jdevlucio/jdevlucio/blob/main/aws-certified-cloud-practitioner.png"  width="100" height="100"/>
 
 
