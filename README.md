@@ -9,7 +9,6 @@
           
 
 ## Badges
+![alt text](https://github.com/jdevlucio/jdevlucio/blob/master/aws-certified-cloud-practitioner.png?raw=true)
 
 
-          
-          
